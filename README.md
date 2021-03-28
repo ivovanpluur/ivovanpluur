@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ivovanpluur
+- 👋 Hi, I’m Ivo van Pluur (@ivovanpluur)
 - 👀 I’m interested in Django and Python
 - 🌱 I’m currently learning Django and Python
 - 💞️ 
